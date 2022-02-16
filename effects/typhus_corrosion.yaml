@@ -1,0 +1,12 @@
+metadata:
+  type        :  'effect'
+  origin      :  'https://www.youtube.com/watch?v=nN1tu4pSSig'
+  image       :  'http://url.com'
+  description :  >
+    very thick with gritty texture.
+    recommend using older brush
+  recesses:
+    - paint into recesses
+    - smudge in downward motion
+  flat surface:
+    - general, random application towards the bottom of the model

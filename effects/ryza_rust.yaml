@@ -1,0 +1,16 @@
+metadata:
+  type        :  'effect'
+  origin      :  'https://www.youtube.com/watch?v=px18NSorf1g'
+  image       :  'http://url.com'
+  depends_on  : './typhus_corrosion.yaml'
+  description :  >
+    very thick.
+    will catch textured surfaces and leave a rust-like image.
+    works best with typus corrosion.
+    use typhus corrosion before-hand to increase surface for rust effect.
+  process:
+    - load a bit of paint on the brush.
+    - wipe off most of the paint on a paper towel.
+    - drybrush onto model, build up as needed.
+  next_steps:
+    - follow-up with a metallic and apply chipping effect.
