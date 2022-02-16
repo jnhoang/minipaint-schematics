@@ -1,0 +1,53 @@
+metadata:
+  model       :  'sword brethern, hammer'
+  army        :  'space marine - black templars'
+  origin      :  'https://www.youtube.com/watch?v=hLRSCV6N1IU'
+  image       :  'http://url.com'
+  description :  >
+    ENTER DESCRIPTION HERE
+armor:
+  - base             :  'abaddon black'
+  - edge_highlight_1 :  'dark reaper'
+  - edge_highlight_2 :  'dawnstone'
+  - edge_highlight_3 :  'administratum grey, celestra grey'
+
+shoulder_plate:
+  - base  :  'abaddon black'
+shoulder_plate_metal_trim:
+  - base           :  'khorne_red'
+  - edge_highlight :  'evil_sunz_scarlet'
+tabard :
+  - base           :  'rakarth_flesh'
+  - shade          :  'agrax_earthshade'
+  - layer_1        :  'rakarth_flesh'
+  - layer_2        :  'ushabti_bone'
+  - edge_highlight :  'screaming_skull, mig_bone'
+leather :
+  - base      :  'mournfang_brown, earth_brown'
+  - highlight :  'skrag_brown, steel_legion_brown'
+weapons/parchment :
+  - base           :  'khorne_red'
+  - shade          :  'nuln_oil (all)'
+  - layer          :  'khorne_red (flat surface)'
+  - edge_highlight :  'evil_sunz_scarlet'
+parchment:
+  - base           :  'khorne_red'
+  - shade          :  'nuln_oil (all)'
+  - layer          :  'khorne_red (flat surface)'
+  - edge_highlight :  'evil_sunz_scarlet (flat surface)'
+  - detail         :  'white - scribble white for text'
+joints :
+  - base      :  'eshin_grey'
+  - shade     :  'nuln_oil'
+  - highlight :  'dawnstone'
+metal/vents/chains :
+  - base      :  'leadbelcher'
+  - shade     :  'nuln_oil'
+  - highlight :  'ironbreaker'
+aquila :
+  - base      :  'bronze / retributor_gold'
+  - highlight :  'liberator_gold'
+eyes :
+  - base   :  'matte white, in the horizontal center'
+  - glaze  :  'blood_angels_red (contrast)'
+  - detail :  'redefine the white'
