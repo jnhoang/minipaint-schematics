@@ -1,0 +1,12 @@
+metadata:
+  type        :  'effect'
+  origin      :  'https://www.youtube.com/watch?v=px18NSorf1g'
+  image       :  'http://url.com'
+  depends_on  : 'bronze or copper'
+  description :  >
+    - looks like a shade, but a little thicker and chalkier
+process_1:
+  - detail :  in nook and crannies
+process_2:
+  wash  :  liberally over the entire model
+  clean :  wipe away the excess quickly

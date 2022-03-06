@@ -1,0 +1,11 @@
+metadata:
+  type        :  'component'
+  name:       :  'gold_armor_trim'
+  origin      :  'https://youtu.be/A7m4l8fEEis'
+  image       :  'http://url.com'
+  description :  >
+    Nice way to minimize the number of yellow layers needed.
+  steps:
+    - base_1    :  'rhinox hide'
+    - base_2    :  'bronze'
+    - highlight :  'gold'

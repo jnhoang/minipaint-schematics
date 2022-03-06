@@ -1,0 +1,12 @@
+metadata :
+  type        :  'component'
+  name        :   'dark tone skin, simplified'
+  origin      :  'https://youtu.be/xPZSut7SglA'
+  image       :  'http://url.com'
+  description :  >
+    See imperial fist deathwatch kill team member.
+  steps :
+    - base           :  'catachan flesh'
+    - shade          :  'agrax earthshade'
+    - highlight_1    :  'bloodreaver flesh'
+    - edge_highlight :  'knight questor flesh'

@@ -1,0 +1,11 @@
+metadata :
+  type        :  'component'
+  name        :   'dark tone skin'
+  origin      :  'https://youtu.be/F-m_9F6u7I4'
+  image       :  'http://url.com'
+  description :  >
+  steps :
+    - base             :  '50:50 abaddon black / catachan flesh'
+    - highlight_1      :  'catachan flesh'
+    - highlight_2      :  '3:1 catachan flesh / knights questor flesh'
+    - edge_highlight_1 :  'cadian fleshtone'

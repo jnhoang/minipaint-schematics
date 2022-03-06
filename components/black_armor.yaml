@@ -1,0 +1,12 @@
+metadata :
+  type        :  'component'
+  name        :   'black armor (blue)'
+  origin      :  'https://youtu.be/CkL5NszZjCc'
+  image       :  'http://url.com'
+  description :  >
+    This worked out pretty well, it's on one of the deathwatch kill team members.
+  steps :
+    - base             :  'abaddon black'
+    - highlight_1      :  'fat line, dark reaper'
+    - edge_highlight_1 :  'thunderhawk blue'
+    - edge_highlight_1 :  'fenresian grey'

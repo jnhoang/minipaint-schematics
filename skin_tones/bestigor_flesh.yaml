@@ -1,0 +1,10 @@
+metadata :
+  type        :  'component'
+  name        :  'dark tone skin, simplified'
+  image       :  'http://url.com'
+  description :  >
+    See imperial fist deathwatch kill team member.
+  steps :
+    - base           :  'rhinox hide'
+    - layer          :  'mournfang brown'
+    - edge_highlight :  'steel legion drab'
